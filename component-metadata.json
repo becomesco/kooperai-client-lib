@@ -1,0 +1,33 @@
+{
+  "available": ["type1", "type2", "type3", "type4", "type5"],
+  "loader": {
+    "current": "1.0.0",
+    "all": ["1.0.0"]
+  },
+  "css": {
+    "current": "1.0.0",
+    "all": ["1.0.0"]
+  },
+  "components": {
+    "type1": {
+      "current": "1.0.0",
+      "all": ["1.0.0"]
+    },
+    "type2": {
+      "current": "1.0.0",
+      "all": ["1.0.0"]
+    },
+    "type3": {
+      "current": "1.0.0",
+      "all": ["1.0.0"]
+    },
+    "type4": {
+      "current": "1.0.0",
+      "all": ["1.0.0"]
+    },
+    "type5": {
+      "current": "1.0.0",
+      "all": ["1.0.0"]
+    }
+  }
+}
